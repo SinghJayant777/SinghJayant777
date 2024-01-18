@@ -1,6 +1,6 @@
 <img src="https://github.com/SinghJayant777/SinghJayant777/blob/main/banner.png" alt="Your Image" align="center">
 <h1 align="center">Hi 👋, I'm Jayant Singh</h1>
-<h3 align="center">Python Developer | Passionate about Technology</h3> <br>
+<h3 align="center">Python | SQL | Passionate about Technology</h3> <br>
 <img align="right" alt="Analysis" width="500" src="https://github.com/Potential17/Potential17/blob/master/user.gif" 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayantsingh2612/)](https://www.linkedin.com/in/jayantsingh2612/)
@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jayant_singh_777/)](https://www.instagram.com/jayant_singh_777/)
 
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **NumPy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SinghJayant777?tab=repositories](https://github.com/SinghJayant777?tab=repositories)
 
