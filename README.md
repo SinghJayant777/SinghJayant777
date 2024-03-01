@@ -1,6 +1,6 @@
 <img src="https://github.com/SinghJayant777/SinghJayant777/blob/main/banner.png" alt="Your Image" align="center">
 <h1 align="center">Hi 👋, I'm Jayant Singh</h1>
-<h3 align="center">Python | SQL | Passionate about Technology</h3> <br>
+<h3 align="center">Power BI | DAX | Python | SQL | Passionate about Technology</h3> <br>
 <img align="right" alt="Analysis" width="500" src="https://github.com/Potential17/Potential17/blob/master/user.gif" 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayantsingh2612/)](https://www.linkedin.com/in/jayantsingh2612/)
