@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SinghJayant777?tab=repositories](https://github.com/SinghJayant777?tab=repositories)
 
-- 💬 Ask me about **Python, SQL, and Java**
+- 💬 Ask me about **Power BI, SQL, Python**
 
 - 📫 How to reach me **jayant_singh_2002@yahoo.com**
 
