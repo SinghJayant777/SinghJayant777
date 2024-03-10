@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, SQL, and Java**
 
-- 📫 How to reach me **lockout.jayantsingh2612@gmail.com**
+- 📫 How to reach me **jayant_singh_2002@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
