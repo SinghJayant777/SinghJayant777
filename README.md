@@ -36,7 +36,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/auchenberg/vscode-logo-svg/blob/master/vscode-logo.svg" alt="vs code" width="40" height="40"/> </a> 
 </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=singhjayant777&show_icons=true&locale=en" alt="singhjayant777"/></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=singhjayant777&" alt="singhjayant777"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=singhjayant777&show_icons=true&locale=en" alt="singhjayant777" width=400/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=singhjayant777&" alt="singhjayant777" width=400/></p>
 
 
