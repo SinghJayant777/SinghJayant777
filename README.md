@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jayant_singh_777/)](https://www.instagram.com/jayant_singh_777/)
 
 
-- 🌱 I’m currently learning **NumPy**
+- 🌱 I’m currently learning **SeaBorn**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SinghJayant777?tab=repositories](https://github.com/SinghJayant777?tab=repositories)
 
